@@ -14,10 +14,11 @@ import OutlinedCards from './Cards/Mu_Outlined';
 import Mu_Paper from './Paper/Mu_Paper';
 import SimplePaper from './Paper/Mu_Paper';
 
+
 function App() {
   return (
     <div className="App">
-   <SimplePaper />
+   <BasicAlert />
     </div>
   );
 }
